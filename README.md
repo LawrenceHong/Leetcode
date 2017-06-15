@@ -3,9 +3,9 @@ This is my leetcode solution folder.
 
 Language: java,c++
 
-Last updated: 2017-06-14
+Last updated: 2017-06-15
 
-I've solved 232/547 problems (101 problems for a fee).
+I've solved 235/547 problems (101 problems for a fee).
 
 The source code was fetched using the tool [leetcode-spider](https://github.com/Ma63d/leetcode-spider).
 
@@ -40,6 +40,7 @@ The source code was fetched using the tool [leetcode-spider](https://github.com/
 |035|[search-insert-position](https://leetcode.com/problems/search-insert-position/)| [java](./035.search-insert-position/search-insert-position.java)| Easy|
 |036|[valid-sudoku](https://leetcode.com/problems/valid-sudoku/)| [java](./036.valid-sudoku/valid-sudoku.java)| Medium|
 |040|[combination-sum-ii](https://leetcode.com/problems/combination-sum-ii/)| [java](./040.combination-sum-ii/combination-sum-ii.java)| Medium|
+|041|[first-missing-positive](https://leetcode.com/problems/first-missing-positive/)| [java](./041.first-missing-positive/first-missing-positive.java)| Hard|
 |042|[trapping-rain-water](https://leetcode.com/problems/trapping-rain-water/)| [java](./042.trapping-rain-water/trapping-rain-water.java)| Hard|
 |043|[multiply-strings](https://leetcode.com/problems/multiply-strings/)| [java](./043.multiply-strings/multiply-strings.java)| Medium|
 |046|[permutations](https://leetcode.com/problems/permutations/)| [java](./046.permutations/permutations.java)| Medium|
@@ -109,6 +110,7 @@ The source code was fetched using the tool [leetcode-spider](https://github.com/
 |157|[read-n-characters-given-read4](https://leetcode.com/problems/read-n-characters-given-read4/)| [c++](./157.read-n-characters-given-read4/read-n-characters-given-read4.cpp)| Easy|
 |160|[intersection-of-two-linked-lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)| [java](./160.intersection-of-two-linked-lists/intersection-of-two-linked-lists.java)| Easy|
 |162|[find-peak-element](https://leetcode.com/problems/find-peak-element/)| [java](./162.find-peak-element/find-peak-element.java)| Medium|
+|165|[compare-version-numbers](https://leetcode.com/problems/compare-version-numbers/)| [java](./165.compare-version-numbers/compare-version-numbers.java)| Medium|
 |167|[two-sum-ii-input-array-is-sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)| [java](./167.two-sum-ii-input-array-is-sorted/two-sum-ii-input-array-is-sorted.java)| Easy|
 |169|[majority-element](https://leetcode.com/problems/majority-element/)| [java](./169.majority-element/majority-element.java)| Easy|
 |170|[two-sum-iii-data-structure-design](https://leetcode.com/problems/two-sum-iii-data-structure-design/)| [java](./170.two-sum-iii-data-structure-design/two-sum-iii-data-structure-design.java)| Easy|
@@ -141,6 +143,7 @@ The source code was fetched using the tool [leetcode-spider](https://github.com/
 |234|[palindrome-linked-list](https://leetcode.com/problems/palindrome-linked-list/)| [java](./234.palindrome-linked-list/palindrome-linked-list.java)| Easy|
 |237|[delete-node-in-a-linked-list](https://leetcode.com/problems/delete-node-in-a-linked-list/)| [java](./237.delete-node-in-a-linked-list/delete-node-in-a-linked-list.java)| Easy|
 |238|[product-of-array-except-self](https://leetcode.com/problems/product-of-array-except-self/)| [java](./238.product-of-array-except-self/product-of-array-except-self.java)| Medium|
+|240|[search-a-2d-matrix-ii](https://leetcode.com/problems/search-a-2d-matrix-ii/)| [java](./240.search-a-2d-matrix-ii/search-a-2d-matrix-ii.java)| Medium|
 |241|[different-ways-to-add-parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/)| [java](./241.different-ways-to-add-parentheses/different-ways-to-add-parentheses.java)| Medium|
 |242|[valid-anagram](https://leetcode.com/problems/valid-anagram/)| [java](./242.valid-anagram/valid-anagram.java)| Easy|
 |243|[shortest-word-distance](https://leetcode.com/problems/shortest-word-distance/)| [java](./243.shortest-word-distance/shortest-word-distance.java)| Easy|
