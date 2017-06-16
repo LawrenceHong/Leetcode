@@ -3,9 +3,9 @@ This is my leetcode solution folder.
 
 Language: java,c++
 
-Last updated: 2017-06-15
+Last updated: 2017-06-16
 
-I've solved 235/547 problems (101 problems for a fee).
+I've solved 238/547 problems (101 problems for a fee).
 
 The source code was fetched using the tool [leetcode-spider](https://github.com/Ma63d/leetcode-spider).
 
@@ -91,6 +91,7 @@ The source code was fetched using the tool [leetcode-spider](https://github.com/
 |125|[valid-palindrome](https://leetcode.com/problems/valid-palindrome/)| [java](./125.valid-palindrome/valid-palindrome.java)| Easy|
 |128|[longest-consecutive-sequence](https://leetcode.com/problems/longest-consecutive-sequence/)| [java](./128.longest-consecutive-sequence/longest-consecutive-sequence.java)| Hard|
 |131|[palindrome-partitioning](https://leetcode.com/problems/palindrome-partitioning/)| [java](./131.palindrome-partitioning/palindrome-partitioning.java)| Medium|
+|134|[gas-station](https://leetcode.com/problems/gas-station/)| [java](./134.gas-station/gas-station.java)| Medium|
 |136|[single-number](https://leetcode.com/problems/single-number/)| [java](./136.single-number/single-number.java)| Easy|
 |137|[single-number-ii](https://leetcode.com/problems/single-number-ii/)| [java](./137.single-number-ii/single-number-ii.java)| Medium|
 |138|[copy-list-with-random-pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)| [java](./138.copy-list-with-random-pointer/copy-list-with-random-pointer.java)| Medium|
@@ -126,6 +127,7 @@ The source code was fetched using the tool [leetcode-spider](https://github.com/
 |201|[bitwise-and-of-numbers-range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)| [java](./201.bitwise-and-of-numbers-range/bitwise-and-of-numbers-range.java)| Medium|
 |202|[happy-number](https://leetcode.com/problems/happy-number/)| [java](./202.happy-number/happy-number.java)| Easy|
 |203|[remove-linked-list-elements](https://leetcode.com/problems/remove-linked-list-elements/)| [java](./203.remove-linked-list-elements/remove-linked-list-elements.java)| Easy|
+|204|[count-primes](https://leetcode.com/problems/count-primes/)| [java](./204.count-primes/count-primes.java)| Easy|
 |205|[isomorphic-strings](https://leetcode.com/problems/isomorphic-strings/)| [java](./205.isomorphic-strings/isomorphic-strings.java)| Easy|
 |206|[reverse-linked-list](https://leetcode.com/problems/reverse-linked-list/)| [java](./206.reverse-linked-list/reverse-linked-list.java)| Easy|
 |209|[minimum-size-subarray-sum](https://leetcode.com/problems/minimum-size-subarray-sum/)| [java](./209.minimum-size-subarray-sum/minimum-size-subarray-sum.java)| Medium|
@@ -138,6 +140,7 @@ The source code was fetched using the tool [leetcode-spider](https://github.com/
 |226|[invert-binary-tree](https://leetcode.com/problems/invert-binary-tree/)| [java](./226.invert-binary-tree/invert-binary-tree.java)| Easy|
 |227|[basic-calculator-ii](https://leetcode.com/problems/basic-calculator-ii/)| [java](./227.basic-calculator-ii/basic-calculator-ii.java)| Medium|
 |228|[summary-ranges](https://leetcode.com/problems/summary-ranges/)| [java](./228.summary-ranges/summary-ranges.java)| Medium|
+|229|[majority-element-ii](https://leetcode.com/problems/majority-element-ii/)| [java](./229.majority-element-ii/majority-element-ii.java)| Medium|
 |231|[power-of-two](https://leetcode.com/problems/power-of-two/)| [java](./231.power-of-two/power-of-two.java)| Easy|
 |232|[implement-queue-using-stacks](https://leetcode.com/problems/implement-queue-using-stacks/)| [java](./232.implement-queue-using-stacks/implement-queue-using-stacks.java)| Easy|
 |234|[palindrome-linked-list](https://leetcode.com/problems/palindrome-linked-list/)| [java](./234.palindrome-linked-list/palindrome-linked-list.java)| Easy|
